@@ -1,0 +1,2 @@
+loopback: 127.0.0.1
+googleDNS: 8.8.8.8

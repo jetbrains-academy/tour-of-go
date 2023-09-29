@@ -1,0 +1,6 @@
+type: theory
+files:
+  - name: task.go
+    visible: true
+  - name: go.mod
+    visible: false

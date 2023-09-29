@@ -1,0 +1,2 @@
+tree.New(1) == tree.New(1): PASSED
+tree.New(1) != tree.New(2): PASSED
