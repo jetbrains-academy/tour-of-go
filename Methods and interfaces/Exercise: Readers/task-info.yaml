@@ -2,7 +2,13 @@ type: output
 files:
   - name: task.go
     visible: true
+    placeholders:
+      - offset: 73
+        length: 105
+        placeholder_text: "// TODO: Add a Read([]byte) (int, error) method to MyReader."
   - name: go.mod
     visible: false
   - name: test/output.txt
     visible: false
+  - name: go.sum
+    visible: true

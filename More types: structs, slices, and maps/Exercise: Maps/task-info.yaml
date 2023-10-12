@@ -2,7 +2,16 @@ type: output
 files:
   - name: task.go
     visible: true
+    placeholders:
+      - offset: 48
+        length: 9
+        placeholder_text: /* TODO */
+      - offset: 104
+        length: 86
+        placeholder_text: "return map[string]int{\"x\": 1}"
   - name: go.mod
     visible: false
   - name: test/output.txt
     visible: false
+  - name: go.sum
+    visible: true

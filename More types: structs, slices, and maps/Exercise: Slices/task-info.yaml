@@ -2,7 +2,13 @@ type: output
 files:
   - name: task.go
     visible: true
+    placeholders:
+      - offset: 80
+        length: 166
+        placeholder_text: /* TODO */
   - name: go.mod
     visible: false
   - name: test/output.txt
     visible: false
+  - name: go.sum
+    visible: true

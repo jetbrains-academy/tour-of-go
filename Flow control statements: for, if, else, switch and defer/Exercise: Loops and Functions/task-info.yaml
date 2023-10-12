@@ -2,6 +2,13 @@ type: output
 files:
   - name: task.go
     visible: true
+    placeholders:
+      - offset: 73
+        length: 104
+        placeholder_text: /* TODO */
+      - offset: 196
+        length: 90
+        placeholder_text: fmt.Println(Sqrt(2))
   - name: go.mod
     visible: false
   - name: test/output.txt

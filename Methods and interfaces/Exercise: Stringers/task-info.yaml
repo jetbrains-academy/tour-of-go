@@ -2,6 +2,10 @@ type: output
 files:
   - name: task.go
     visible: true
+    placeholders:
+      - offset: 49
+        length: 99
+        placeholder_text: "// TODO: Add a \"String() string\" method to IPAddr."
   - name: go.mod
     visible: false
   - name: test/output.txt

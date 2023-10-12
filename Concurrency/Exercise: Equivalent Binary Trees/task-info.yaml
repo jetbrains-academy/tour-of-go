@@ -2,9 +2,21 @@ type: output
 files:
   - name: task.go
     visible: true
+    placeholders:
+      - offset: 103
+        length: 85
+        placeholder_text: /* TODO */
+      - offset: 312
+        length: 61
+        placeholder_text: /* TODO */
+      - offset: 489
+        length: 203
+        placeholder_text: /* TODO */
   - name: go.mod
     visible: false
   - name: tree.png
     visible: false
   - name: test/output.txt
     visible: false
+  - name: go.sum
+    visible: true
