@@ -5,7 +5,7 @@ files:
     placeholders:
       - offset: 73
         length: 105
-        placeholder_text: "// TODO: Add a Read([]byte) (int, error) method to MyReader."
+        placeholder_text: "// TODO: Implement a Read method for the MyReader type. The method should return \"int\" and \"error\" values."
   - name: go.mod
     visible: false
   - name: test/output.txt

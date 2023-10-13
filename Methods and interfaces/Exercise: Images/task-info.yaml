@@ -11,7 +11,7 @@ files:
         placeholder_text: /* TODO */
       - offset: 400
         length: 8
-        placeholder_text: /* Insert some dimnsions here */
+        placeholder_text: /* Insert dimensions here (for example, "256, 256") */
   - name: go.mod
     visible: false
   - name: test/output.txt
