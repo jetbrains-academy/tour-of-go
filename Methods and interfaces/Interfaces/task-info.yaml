@@ -2,6 +2,10 @@ type: output
 files:
   - name: task.go
     visible: true
+    placeholders:
+      - offset: 514
+        length: 6
+        placeholder_text: '*Vertex'
   - name: go.mod
     visible: false
   - name: test/output.txt

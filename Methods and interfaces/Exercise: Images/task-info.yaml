@@ -2,7 +2,19 @@ type: output
 files:
   - name: task.go
     visible: true
+    placeholders:
+      - offset: 96
+        length: 17
+        placeholder_text: /* TODO */
+      - offset: 117
+        length: 255
+        placeholder_text: /* TODO */
+      - offset: 400
+        length: 8
+        placeholder_text: /* Insert dimensions here (for example, "256, 256") */
   - name: go.mod
     visible: false
   - name: test/output.txt
     visible: false
+  - name: go.sum
+    visible: true

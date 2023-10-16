@@ -2,6 +2,10 @@ type: output
 files:
   - name: task.go
     visible: true
+    placeholders:
+      - offset: 68
+        length: 7
+        placeholder_text: math.pi
   - name: go.mod
     visible: false
   - name: test/output.txt
