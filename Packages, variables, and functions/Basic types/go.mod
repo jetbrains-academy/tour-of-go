@@ -1,1 +1,1 @@
-module main
+module basicTypesMain
