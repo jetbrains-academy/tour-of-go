@@ -1,3 +1,6 @@
+[![official project](https://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # tour-of-go
 Welcome to the JetBrains Academy adaptation of "A Tour of Go" (https://go.dev/tour/list). This course aims to provide an in-depth introduction to the Go programming language. Originally presented in a web-based format at Tour of Go, this version of the course has been converted to suit the learning environment of JetBrains Academy. 
 
