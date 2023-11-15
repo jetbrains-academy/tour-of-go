@@ -19,7 +19,9 @@ summary: "<p>Welcome to the JetBrains Academy adaptation of <a href=\"https://go
   https://github.com/jetbrains-academy/https://github.com/jetbrains-academy/tour-of-go\"\
   >git repo</a>.</p>"
 vendor:
-  name: Igor Gerasimov
+  name: JetBrains
+  email: support@jetbrains.com
+  url: https://www.jetbrains.com/
 programming_language: Go
 content:
   - Introduction
